@@ -41,6 +41,26 @@ En ambos casos se creará un archivo llamado "Métricas.csv" el cual se encuentr
 
 ## Clonar el repositorio
 
+1. En dado caso no tenga la carpeta donde desee clonar el repositorio, cree la carpeta.
+2. Abra una terminal 
+3. Con la terminal, ubíquese en la carpeta creada.
+4. Despues escriba lo siguiente: 
+
+    git clone https://github.com/JL-Puc/ADA06_E3.git
+
+Con ello el repositorio se clonará en la carpeta que ha especificado.
+
+## Compilar y ejecutar el programa
+
+1. Abra una terminal 
+2. Con la terminal, ubíquese en la carpeta "ADA06_E3" (la cual es donde se encuentra el programa).
+3. Seguidamente, para compilar escriba en la consola:
+
+    javac src/App.java
+
+4. Por último para ejecutar el programa escriba:
+
+    javac src\App.java 
 
 
 
