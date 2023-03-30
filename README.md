@@ -37,7 +37,12 @@ El programa consiste en ordenar el conjunto de datos de acuerdo a dos de las nue
     3. QuickSort
     4. RadixSort
 
-En ambos casos se creará un archivo llamado "Métricas.csv" el cual se encuentra en la carpeta -orderData- y también un archivo por cada método de ordenamiento que se utilice donde se almacenarán los datos ordenados de cada método.
+En ambos casos se creará un archivo llamado "Métricas.csv" el cual se encuentra en la carpeta -orderData- donde se recaba un resumen de los métodos de ordenamiento y métricas como:
+- Tiempo de ejecución (en milisegundos)
+- Número de comparaciones
+- Número de intercambios
+
+De igual manera se crea un archivo por cada método de ordenamiento que se utilice donde se almacenarán los datos ordenados de cada método.
 
 ## Clonar el repositorio
 
