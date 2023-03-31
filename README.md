@@ -69,7 +69,7 @@ Con ello el repositorio se clonará en la carpeta que ha especificado.
 
 4. Por último para ejecutar el programa escriba:
 
-    javac App
+    java App
 
 
 
