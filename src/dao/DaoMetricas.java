@@ -10,7 +10,7 @@ import java.util.ArrayList;
  */
 public class DaoMetricas {
     File archivo;
-    String path = "src\\orderData\\Metricas.csv";
+    String path = "orderData\\Metricas.csv";
 
     /**
      * Escribe en el archivo "Metricas" la lista de Strings enviadas.

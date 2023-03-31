@@ -12,7 +12,7 @@ import java.util.StringTokenizer;
 import domain.Song;
 
 public class DaoCanciones {
-    String path = "src\\dataBase\\dataset.csv";
+    String path = "dataBase\\dataset.csv";
     File archivo = new File(path);
     LinkedList<Song> lista;
 
@@ -59,7 +59,7 @@ public class DaoCanciones {
      * @throws IOException
      */
     public void escribirArchivo(String archivoName, LinkedList<Song> lista  ) throws IOException {
-        String path = "src\\orderData\\" + archivoName;
+        String path = "orderData\\" + archivoName;
 
         File archivoOrdenado = new File(path);
         
@@ -77,7 +77,7 @@ public class DaoCanciones {
      * Elimina el archivo Radix.
      */
     public void borrarArchivoRadix(){
-        String path = "src\\orderData\\RadixSort_Ordenado.csv";
+        String path = "orderData\\RadixSort_Ordenado.csv";
         File archivoRadix = new File(path);
 
         archivoRadix.delete();
