@@ -59,13 +59,17 @@ Con ello el repositorio se clonará en la carpeta que ha especificado.
 
 1. Abra una terminal 
 2. Con la terminal, ubíquese en la carpeta "ADA06_E3" (la cual es donde se encuentra el programa).
+4. Ahora cambiese a la carpeta src con el comando:
+    
+    cd src
+
 3. Seguidamente, para compilar escriba en la consola:
 
-    javac src/App.java
+    javac App.java
 
 4. Por último para ejecutar el programa escriba:
 
-    javac src\App.java 
+    javac App
 
 
 
