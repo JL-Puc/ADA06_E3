@@ -1,4 +1,4 @@
 Method, Column, Mode, EjecutionTime(ms), Comparations, Interchanges
-BinaryInsertionSort,Nombre de CancionAscendente,377,4407,253136
-MergeSort,Nombre de CancionAscendente,32,4440,10975
-QuickSort,Nombre de CancionAscendente,929,499500,81699
+BinaryInsertionSort,Nombre de CancionAscendente,371,4407,253136
+MergeSort,Nombre de CancionAscendente,38,4440,10975
+QuickSort,Nombre de CancionAscendente,970,499500,81699
